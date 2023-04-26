@@ -1,0 +1,6 @@
+.info{
+    margin-top: 40px;
+    display: grid;
+    justify-items: center;
+    grid-gap: 20px;
+}

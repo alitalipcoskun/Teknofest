@@ -1,0 +1,17 @@
+.container{
+    margin-left: 10px;
+    margin-top: 25px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 25px;
+    justify-items: center;
+    margin-right: 10px;
+}
+
+
+
+@media screen and (max-width: 768px ){
+    .container{
+        grid-template-columns: 1fr;
+    }
+}
