@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Teknofest/static/css/main.e1b781f9.css",
-    "main.js": "/Teknofest/static/js/main.003f5ec9.js",
-    "static/js/787.39bb0775.chunk.js": "/Teknofest/static/js/787.39bb0775.chunk.js",
-    "static/media/saglkta-yz_logo.png": "/Teknofest/static/media/saglkta-yz_logo.88f64bd8472e13b7db5d.png",
-    "static/media/Ali.jpeg": "/Teknofest/static/media/Ali.034a50e3290ae0b8d540.jpeg",
-    "static/media/Batu.jpeg": "/Teknofest/static/media/Batu.17ada18975e8aa414070.jpeg",
-    "static/media/TTT.LOGO.png": "/Teknofest/static/media/TTT.LOGO.9e9f22b497d28004ed0b.png",
-    "static/media/Teknofest_logo.png": "/Teknofest/static/media/Teknofest_logo.1ca654e7c02cca645ad6.png",
-    "static/media/tüseblogo.png": "/Teknofest/static/media/tüseblogo.257b669aaf849cb89088.png",
-    "static/media/Emre.jpeg": "/Teknofest/static/media/Emre.a613d393e8534c578ae9.jpeg",
-    "index.html": "/Teknofest/index.html",
-    "main.e1b781f9.css.map": "/Teknofest/static/css/main.e1b781f9.css.map",
-    "main.003f5ec9.js.map": "/Teknofest/static/js/main.003f5ec9.js.map",
-    "787.39bb0775.chunk.js.map": "/Teknofest/static/js/787.39bb0775.chunk.js.map"
+    "main.css": "/static/css/main.e1b781f9.css",
+    "main.js": "/static/js/main.9d902baf.js",
+    "static/js/787.39bb0775.chunk.js": "/static/js/787.39bb0775.chunk.js",
+    "static/media/saglkta-yz_logo.png": "/static/media/saglkta-yz_logo.88f64bd8472e13b7db5d.png",
+    "static/media/Ali.jpeg": "/static/media/Ali.034a50e3290ae0b8d540.jpeg",
+    "static/media/Batu.jpeg": "/static/media/Batu.17ada18975e8aa414070.jpeg",
+    "static/media/TTT.LOGO.png": "/static/media/TTT.LOGO.9e9f22b497d28004ed0b.png",
+    "static/media/Teknofest_logo.png": "/static/media/Teknofest_logo.1ca654e7c02cca645ad6.png",
+    "static/media/tüseblogo.png": "/static/media/tüseblogo.257b669aaf849cb89088.png",
+    "static/media/Emre.jpeg": "/static/media/Emre.a613d393e8534c578ae9.jpeg",
+    "index.html": "/index.html",
+    "main.e1b781f9.css.map": "/static/css/main.e1b781f9.css.map",
+    "main.9d902baf.js.map": "/static/js/main.9d902baf.js.map",
+    "787.39bb0775.chunk.js.map": "/static/js/787.39bb0775.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e1b781f9.css",
-    "static/js/main.003f5ec9.js"
+    "static/js/main.9d902baf.js"
   ]
 }
